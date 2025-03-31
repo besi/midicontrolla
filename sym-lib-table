@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "jlc_symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_symbols.kicad_sym")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/lib/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-09806")(type "KiCad")(uri "${KIPRJMOD}/lib/COM-09806/COM-09806.kicad_sym")(options "")(descr ""))
+  (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/lib/THB001P/THB001P.kicad_sym")(options "")(descr ""))
+  (lib (name "MD-60SM")(type "KiCad")(uri "${KIPRJMOD}/lib/MD-60SM/MD-60SM.kicad_sym")(options "")(descr ""))
 )

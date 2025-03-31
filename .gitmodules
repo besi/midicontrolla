@@ -1,0 +1,3 @@
+[submodule "lib/pts636"]
+	path = lib/pts636
+	url = https://github.com/besi/kicad-pts636

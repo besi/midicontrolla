@@ -2,4 +2,8 @@
   (version 7)
   (lib (name "jlc_footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_footprints.pretty")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/lib/Espressif.pretty")(options "")(descr ""))
+  (lib (name "COM-09806")(type "KiCad")(uri "${KIPRJMOD}/lib/COM-09806/COM-09806.pretty")(options "")(descr ""))
+  (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/lib/THB001P/THB001P.pretty")(options "")(descr ""))
+  (lib (name "pts636")(type "KiCad")(uri "${KIPRJMOD}/lib/pts636/pts636.pretty")(options "")(descr ""))
+  (lib (name "MD-60SM")(type "KiCad")(uri "${KIPRJMOD}/lib/MD-60SM/MD-60SM.pretty")(options "")(descr ""))
 )
